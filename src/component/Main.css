@@ -1,12 +1,7 @@
 body #homebg{
     text-align: center;
     position: relative;
-    /* background-color: rgb(194, 87, 76); */
-    /* background-image: radial-gradient(circle, rgb(214, 75, 75) 0%, rgb(220, 133, 87) 100%); */
     background-image: radial-gradient(circle, rgb(243, 117, 117) 0%, rgb(255, 196, 164) 100%);
-}
-.header {
-    /* color: white; */
 }
 h1 {
     font-size: 2em;
@@ -36,8 +31,6 @@ h1, h2{
     padding: 1em;
     border-radius: 50em;
 }
-.nav-bar a:hover{}
-
 .homepage{
     margin-top: 10em;
     position: relative;
@@ -79,21 +72,17 @@ h1, h2{
     animation-delay: 100ms;
 }
 .rb-icon{
-    /* background-color: white; */
+
     border-radius: 10px;
     padding: 10px;
 }
-/* .rb-icon:hover{
-    box-shadow: 4px 4px 8px 2px rgb(255, 255, 255, 0.25);
-} */
+
 .project{
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     margin: 1em;
 }
 .pj-1:nth-child(n){
-    /* background-image: radial-gradient(circle, rgb(223, 95, 95) 0%, rgb(246, 180, 145) 100%); */
-    /* background-color: rgb(255, 165, 104); */
     background-color: white;
     border: white solid 1px;
     border-radius: 0.4em;

@@ -1,9 +1,12 @@
 import React from 'react'
 import '../component/Main.css';
+import './Component_02.css'
+
 import EleFt from './EleFt';
 import EleNav from './EleNav';
 
-import photo from './img/aboutme_photo.svg'
+
+import photo from './img/aboutme_photo.png'
 
 function PAb() {
   return (
@@ -18,7 +21,7 @@ function PAb() {
             </div>
             <div className="pj-2">
                 <p>Some of my photography hobbies</p>
-                <img src={photo} alt="" />
+                <img src={photo} alt=""/>
             </div>
         </div>
     </div>
