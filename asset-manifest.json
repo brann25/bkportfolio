@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bkportfolio/static/css/main.9eee7d6c.css",
-    "main.js": "/bkportfolio/static/js/main.ba6052b1.js",
+    "main.css": "/bkportfolio/static/css/main.25bfe009.css",
+    "main.js": "/bkportfolio/static/js/main.f0a391b2.js",
     "static/media/P1_Sol1.jpg": "/bkportfolio/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/bkportfolio/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/bkportfolio/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -75,16 +75,17 @@
     "static/media/banking_dir2.png": "/bkportfolio/static/media/banking_dir2.8bb05e5ea07aa105534a.png",
     "static/media/banking_dir1.png": "/bkportfolio/static/media/banking_dir1.76af2bef2fbf47ed1ec7.png",
     "static/media/P5_Umu_1_logo_1.png": "/bkportfolio/static/media/P5_Umu_1_logo_1.bbffc4d775f2891553af.png",
+    "static/media/skills.svg": "/bkportfolio/static/media/skills.3dcb4d7d620f1f2e2bdaff9413e96482.svg",
     "static/media/iconHCI.png": "/bkportfolio/static/media/iconHCI.360352e1631ad64be999.png",
     "static/media/iconDSGN.png": "/bkportfolio/static/media/iconDSGN.665f5cafa215a512a876.png",
     "static/media/iconUX.png": "/bkportfolio/static/media/iconUX.a59ea96a342c7d43a3c7.png",
     "static/media/logo.svg": "/bkportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bkportfolio/index.html",
-    "main.9eee7d6c.css.map": "/bkportfolio/static/css/main.9eee7d6c.css.map",
-    "main.ba6052b1.js.map": "/bkportfolio/static/js/main.ba6052b1.js.map"
+    "main.25bfe009.css.map": "/bkportfolio/static/css/main.25bfe009.css.map",
+    "main.f0a391b2.js.map": "/bkportfolio/static/js/main.f0a391b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9eee7d6c.css",
-    "static/js/main.ba6052b1.js"
+    "static/css/main.25bfe009.css",
+    "static/js/main.f0a391b2.js"
   ]
 }
