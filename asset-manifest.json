@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6dfadde7.css",
-    "main.js": "/static/js/main.58e4d9bf.js",
+    "main.js": "/static/js/main.31af7295.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -29,7 +29,6 @@
     "static/media/P1_Flow Chart-02.png": "/static/media/P1_Flow Chart-02.839972da4c428b9e7d54.png",
     "static/media/P1_Flow Chart-01.png": "/static/media/P1_Flow Chart-01.9ae75b86a4110acc9959.png",
     "static/media/BN-FOODFIGHT.png": "/static/media/BN-FOODFIGHT.6c83a30ab599c2d9a3bf.png",
-    "static/media/BN-PNC.png": "/static/media/BN-PNC.e4e83df314c7dff2c66f.png",
     "static/media/BN-KITCHR.png": "/static/media/BN-KITCHR.d1711f671a56f98438e1.png",
     "static/media/P5_UM_1.png": "/static/media/P5_UM_1.efc2ac047ca31daf4804.png",
     "static/media/IAP1_05.jpg": "/static/media/IAP1_05.3c9281cbbfad563de685.jpg",
@@ -47,6 +46,7 @@
     "static/media/P1_Sketching Alternatives_Page_2.jpg": "/static/media/P1_Sketching Alternatives_Page_2.39c69c542b0f581d4b6d.jpg",
     "static/media/P1_Sketching Alternatives_Page_1.jpg": "/static/media/P1_Sketching Alternatives_Page_1.a942aedb4bd895176658.jpg",
     "static/media/P1_Sol2.jpg": "/static/media/P1_Sol2.25c9dec3ead1b8584d37.jpg",
+    "static/media/BN-PNC.png": "/static/media/BN-PNC.a21c32c9b9a7b1a98d61.png",
     "static/media/IAP1_02.jpg": "/static/media/IAP1_02.a4e6898dc85948601187.jpg",
     "static/media/banking_flow2.png": "/static/media/banking_flow2.44d1b88cb79a6fd192cc.png",
     "static/media/banking_scenario1.png": "/static/media/banking_scenario1.3c6d7bd2c28531789d18.png",
@@ -92,10 +92,10 @@
     "static/media/Cloud.svg": "/static/media/Cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "index.html": "/index.html",
     "main.6dfadde7.css.map": "/static/css/main.6dfadde7.css.map",
-    "main.58e4d9bf.js.map": "/static/js/main.58e4d9bf.js.map"
+    "main.31af7295.js.map": "/static/js/main.31af7295.js.map"
   },
   "entrypoints": [
     "static/css/main.6dfadde7.css",
-    "static/js/main.58e4d9bf.js"
+    "static/js/main.31af7295.js"
   ]
 }
