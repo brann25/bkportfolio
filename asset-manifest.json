@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e1713694.css",
-    "main.js": "/static/js/main.fa6118f1.js",
+    "main.js": "/static/js/main.6cd6b374.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -17,7 +17,7 @@
     "static/media/P1_Sol.png": "/static/media/P1_Sol.0f5989a501726e50ea15.png",
     "static/media/P1_Persona-04.jpg": "/static/media/P1_Persona-04.008e501927fb992727e9.jpg",
     "static/media/P1_Persona-02.jpg": "/static/media/P1_Persona-02.4558d645dc76ab1be392.jpg",
-    "static/media/BN-PNC-ALL_1.svg": "/static/media/BN-PNC-ALL_1.7763331614a3c386c973560d3a794f24.svg",
+    "static/media/BN-PNC-ALL_1.svg": "/static/media/BN-PNC-ALL_1.2a231a31c0ea7341bd2ceec2df3161cb.svg",
     "static/media/P5_Umu_6-4.png": "/static/media/P5_Umu_6-4.1db4a22d8b58e76e1838.png",
     "static/media/Talking_Figure_Frame50.gif": "/static/media/Talking_Figure_Frame50.f41a6e67aecbcbdfbd43.gif",
     "static/media/P1_Wireframe.png": "/static/media/P1_Wireframe.609b9c95cc1682373af5.png",
@@ -92,10 +92,10 @@
     "static/media/Cloud.svg": "/static/media/Cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "index.html": "/index.html",
     "main.e1713694.css.map": "/static/css/main.e1713694.css.map",
-    "main.fa6118f1.js.map": "/static/js/main.fa6118f1.js.map"
+    "main.6cd6b374.js.map": "/static/js/main.6cd6b374.js.map"
   },
   "entrypoints": [
     "static/css/main.e1713694.css",
-    "static/js/main.fa6118f1.js"
+    "static/js/main.6cd6b374.js"
   ]
 }
