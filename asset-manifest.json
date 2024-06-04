@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e1713694.css",
-    "main.js": "/static/js/main.6cd6b374.js",
+    "main.js": "/static/js/main.4994ea3e.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -10,6 +10,7 @@
     "static/media/Ole_ref1.png": "/static/media/Ole_ref1.eb769b8a90824210776f.png",
     "static/media/P1_storyboard.png": "/static/media/P1_storyboard.f5a7f11c7cccb90dff23.png",
     "static/media/Wally.png": "/static/media/Wally.5a22da3676af310f73f3.png",
+    "static/media/BN-MOBILE_FLOW.png": "/static/media/BN-MOBILE_FLOW.219871f701f1c1e015a7.png",
     "static/media/aboutme_photo.png": "/static/media/aboutme_photo.ef74aa2f18cd5ad6f966.png",
     "static/media/P1_Persona-03.jpg": "/static/media/P1_Persona-03.5b4391a992304d87e9a8.jpg",
     "static/media/P1_persona.png": "/static/media/P1_persona.d0fb149f033cec13c765.png",
@@ -17,7 +18,7 @@
     "static/media/P1_Sol.png": "/static/media/P1_Sol.0f5989a501726e50ea15.png",
     "static/media/P1_Persona-04.jpg": "/static/media/P1_Persona-04.008e501927fb992727e9.jpg",
     "static/media/P1_Persona-02.jpg": "/static/media/P1_Persona-02.4558d645dc76ab1be392.jpg",
-    "static/media/BN-PNC-ALL_1.svg": "/static/media/BN-PNC-ALL_1.2a231a31c0ea7341bd2ceec2df3161cb.svg",
+    "static/media/BN-PNC-ALL_1.svg": "/static/media/BN-PNC-ALL_1.e83b9dcec5154f8e7f4d496236cde8b4.svg",
     "static/media/P5_Umu_6-4.png": "/static/media/P5_Umu_6-4.1db4a22d8b58e76e1838.png",
     "static/media/Talking_Figure_Frame50.gif": "/static/media/Talking_Figure_Frame50.f41a6e67aecbcbdfbd43.gif",
     "static/media/P1_Wireframe.png": "/static/media/P1_Wireframe.609b9c95cc1682373af5.png",
@@ -25,9 +26,8 @@
     "static/media/P1_Flow Chart.png": "/static/media/P1_Flow Chart.22d7c8419890058cf9bb.png",
     "static/media/P1_Banners.jpg": "/static/media/P1_Banners.6e87e7725aa178d75a51.jpg",
     "static/media/P5_Umu_6-1.png": "/static/media/P5_Umu_6-1.26d0a9f26de23a32ae34.png",
-    "static/media/BN-PNC.svg": "/static/media/BN-PNC.598b079f5c7ae724186625fa19122b9e.svg",
+    "static/media/BN-PNC.svg": "/static/media/BN-PNC.e9ab8e79fb1b87e9c9448f9488e834dc.svg",
     "static/media/P1_Flow Chart-02.png": "/static/media/P1_Flow Chart-02.839972da4c428b9e7d54.png",
-    "static/media/BN-MOBILE_FLOW.png": "/static/media/BN-MOBILE_FLOW.f1011bfb8ad36b8dc0f7.png",
     "static/media/P1_Flow Chart-01.png": "/static/media/P1_Flow Chart-01.9ae75b86a4110acc9959.png",
     "static/media/BN-FOODFIGHT.png": "/static/media/BN-FOODFIGHT.6c83a30ab599c2d9a3bf.png",
     "static/media/BN-KITCHR.png": "/static/media/BN-KITCHR.d1711f671a56f98438e1.png",
@@ -92,10 +92,10 @@
     "static/media/Cloud.svg": "/static/media/Cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "index.html": "/index.html",
     "main.e1713694.css.map": "/static/css/main.e1713694.css.map",
-    "main.6cd6b374.js.map": "/static/js/main.6cd6b374.js.map"
+    "main.4994ea3e.js.map": "/static/js/main.4994ea3e.js.map"
   },
   "entrypoints": [
     "static/css/main.e1713694.css",
-    "static/js/main.6cd6b374.js"
+    "static/js/main.4994ea3e.js"
   ]
 }
