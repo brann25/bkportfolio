@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.49c4ad77.css",
-    "main.js": "/static/js/main.2005e41f.js",
+    "main.css": "/static/css/main.fba95d84.css",
+    "main.js": "/static/js/main.07a7f16c.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -11,7 +11,6 @@
     "static/media/P1_storyboard.png": "/static/media/P1_storyboard.f5a7f11c7cccb90dff23.png",
     "static/media/Wally.png": "/static/media/Wally.5a22da3676af310f73f3.png",
     "static/media/BN-MOBILE_FLOW.png": "/static/media/BN-MOBILE_FLOW.219871f701f1c1e015a7.png",
-    "static/media/aboutme_photo.png": "/static/media/aboutme_photo.ef74aa2f18cd5ad6f966.png",
     "static/media/P1_Persona-03.jpg": "/static/media/P1_Persona-03.5b4391a992304d87e9a8.jpg",
     "static/media/P1_persona.png": "/static/media/P1_persona.d0fb149f033cec13c765.png",
     "static/media/P1_Persona-01.jpg": "/static/media/P1_Persona-01.6561a6ad21a9314c8346.jpg",
@@ -20,6 +19,7 @@
     "static/media/P1_Persona-02.jpg": "/static/media/P1_Persona-02.4558d645dc76ab1be392.jpg",
     "static/media/BN-PNC-ALL_1.svg": "/static/media/BN-PNC-ALL_1.e83b9dcec5154f8e7f4d496236cde8b4.svg",
     "static/media/P5_Umu_6-4.png": "/static/media/P5_Umu_6-4.1db4a22d8b58e76e1838.png",
+    "static/media/AboutMe.png": "/static/media/AboutMe.57cd8e8bdcb5ab682b20.png",
     "static/media/Talking_Figure_Frame50.gif": "/static/media/Talking_Figure_Frame50.f41a6e67aecbcbdfbd43.gif",
     "static/media/P1_Wireframe.png": "/static/media/P1_Wireframe.609b9c95cc1682373af5.png",
     "static/media/P5_Umu_5_Implement.png": "/static/media/P5_Umu_5_Implement.43d4a1ff0eb1e7baef10.png",
@@ -99,11 +99,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/Cloud.svg": "/static/media/Cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "index.html": "/index.html",
-    "main.49c4ad77.css.map": "/static/css/main.49c4ad77.css.map",
-    "main.2005e41f.js.map": "/static/js/main.2005e41f.js.map"
+    "main.fba95d84.css.map": "/static/css/main.fba95d84.css.map",
+    "main.07a7f16c.js.map": "/static/js/main.07a7f16c.js.map"
   },
   "entrypoints": [
-    "static/css/main.49c4ad77.css",
-    "static/js/main.2005e41f.js"
+    "static/css/main.fba95d84.css",
+    "static/js/main.07a7f16c.js"
   ]
 }
