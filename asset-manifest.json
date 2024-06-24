@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ca437210.css",
-    "main.js": "/static/js/main.41045482.js",
+    "main.js": "/static/js/main.2690f3ac.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -14,7 +14,6 @@
     "static/media/P1_Persona-03.jpg": "/static/media/P1_Persona-03.5b4391a992304d87e9a8.jpg",
     "static/media/P1_persona.png": "/static/media/P1_persona.d0fb149f033cec13c765.png",
     "static/media/P1_Persona-01.jpg": "/static/media/P1_Persona-01.6561a6ad21a9314c8346.jpg",
-    "static/media/cos-set3.png": "/static/media/cos-set3.a321ff50f55d9cf3a180.png",
     "static/media/P1_Sol.png": "/static/media/P1_Sol.0f5989a501726e50ea15.png",
     "static/media/P1_Persona-04.jpg": "/static/media/P1_Persona-04.008e501927fb992727e9.jpg",
     "static/media/P1_Persona-02.jpg": "/static/media/P1_Persona-02.4558d645dc76ab1be392.jpg",
@@ -27,6 +26,7 @@
     "static/media/AboutMe.png": "/static/media/AboutMe.caa8668270bc24ee50cb.png",
     "static/media/P5_Umu_6-4.png": "/static/media/P5_Umu_6-4.1db4a22d8b58e76e1838.png",
     "static/media/COS_banner.png": "/static/media/COS_banner.d5cc7c267ba7e73ddeb0.png",
+    "static/media/cos-set3.png": "/static/media/cos-set3.1103a9b420563eadb2c1.png",
     "static/media/Talking_Figure_Frame50.gif": "/static/media/Talking_Figure_Frame50.f41a6e67aecbcbdfbd43.gif",
     "static/media/P1_Wireframe.png": "/static/media/P1_Wireframe.609b9c95cc1682373af5.png",
     "static/media/P5_Umu_5_Implement.png": "/static/media/P5_Umu_5_Implement.43d4a1ff0eb1e7baef10.png",
@@ -115,10 +115,10 @@
     "static/media/Cloud.svg": "/static/media/Cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "index.html": "/index.html",
     "main.ca437210.css.map": "/static/css/main.ca437210.css.map",
-    "main.41045482.js.map": "/static/js/main.41045482.js.map"
+    "main.2690f3ac.js.map": "/static/js/main.2690f3ac.js.map"
   },
   "entrypoints": [
     "static/css/main.ca437210.css",
-    "static/js/main.41045482.js"
+    "static/js/main.2690f3ac.js"
   ]
 }
