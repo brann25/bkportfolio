@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896.17 916.54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc95c;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        font-size: 120px;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: #000;
+        font-family: OpenSans-Semibold, 'Open Sans';
+        font-weight: 600;
+      }
+
+      .cls-4, .cls-5, .cls-7 {
+        opacity: .85;
+      }
+
+      .cls-5 {
+        font-size: 100px;
+      }
+
+      .cls-2 {
+        fill: #ffdfa6;
+      }
+
+      .cls-3 {
+        fill: #ffb000;
+      }
+
+      .cls-6 {
+        font-size: 34px;
+      }
+
+      .cls-7 {
+        font-size: 80px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <circle class="cls-2" cx="629.23" cy="771.12" r="145.42"/>
+    <circle class="cls-3" cx="310.61" cy="511.95" r="310.61"/>
+    <g>
+      <text class="cls-4" transform="translate(190.41 526.27)"><tspan x="0" y="0">46%</tspan></text>
+      <text class="cls-6" transform="translate(153.33 580.28)"><tspan x="0" y="0">App stability Issues</tspan></text>
+    </g>
+    <circle class="cls-1" cx="647.15" cy="249.03" r="249.03"/>
+    <g>
+      <text class="cls-5" transform="translate(546.97 254.68)"><tspan x="0" y="0">27%</tspan></text>
+      <text class="cls-6" transform="translate(506.33 303.49)"><tspan x="0" y="0">User Experiences </tspan><tspan x="90.21" y="40.8">Issues</tspan></text>
+    </g>
+    <g>
+      <text class="cls-7" transform="translate(569.56 760.68)"><tspan x="0" y="0">9%</tspan></text>
+      <text class="cls-6" transform="translate(518 815.08)"><tspan x="0" y="0">Disfunctional</tspan><tspan x="37.28" y="40.8">Features</tspan></text>
+    </g>
+  </g>
+</svg>

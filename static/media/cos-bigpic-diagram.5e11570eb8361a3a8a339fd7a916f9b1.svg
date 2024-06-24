@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3178.26 992.15">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-size: 30px;
+      }
+
+      .cls-1, .cls-5, .cls-4 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-1, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        stroke: #ffb000;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7, .cls-9, .cls-10 {
+        fill: none;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        font-family: OpenSans-Extrabold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #000;
+      }
+
+      .cls-11 {
+        fill: #0054a8;
+      }
+
+      .cls-11, .cls-12, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-8 {
+        fill: #ff551a;
+        stroke-width: 4px;
+      }
+
+      .cls-8, .cls-10 {
+        stroke: #fff;
+      }
+
+      .cls-5 {
+        font-size: 48px;
+      }
+
+      .cls-3 {
+        font-family: OpenSans-Semibold, 'Open Sans';
+        font-weight: 600;
+      }
+
+      .cls-9 {
+        stroke: #0054a8;
+      }
+
+      .cls-12 {
+        fill: #ffb000;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <line class="cls-10" x1="1658.19" y1="484.17" x2="2466.45" y2="484.17"/>
+      <polygon class="cls-6" points="2450.52 497.73 2464.09 484.17 2450.52 470.6 2462.04 470.6 2475.6 484.17 2462.04 497.73 2450.52 497.73"/>
+    </g>
+    <rect class="cls-6" x="0" y="620.75" width="350.05" height="116.68" rx="58.34" ry="58.34"/>
+    <text class="cls-4" transform="translate(52.38 690.49)"><tspan x="0" y="0">Payment Request</tspan></text>
+    <rect class="cls-6" x="452.93" y="424.37" width="350.05" height="116.68" rx="31.06" ry="31.06"/>
+    <text class="cls-4" transform="translate(473.49 494.11)"><tspan x="0" y="0">Immediate Responses</tspan></text>
+    <rect class="cls-6" x="452.93" y="817.12" width="350.05" height="116.68" rx="31.06" ry="31.06"/>
+    <text class="cls-4" transform="translate(476.23 886.86)"><tspan x="0" y="0">Scheduled Responses</tspan></text>
+    <rect class="cls-6" x="907.17" y="229.45" width="206.78" height="116.68" rx="23.87" ry="23.87"/>
+    <text class="cls-4" transform="translate(976.4 299.19)"><tspan x="0" y="0">Cash</tspan></text>
+    <text class="cls-3" transform="translate(1215.82 75.69)"><tspan x="0" y="0">SSN Number</tspan></text>
+    <text class="cls-2" transform="translate(1856.6 40.57)"><tspan x="0" y="0">15 Minutes</tspan></text>
+    <text class="cls-2" transform="translate(1870.64 212.23)"><tspan x="0" y="0">3 Minutes</tspan></text>
+    <text class="cls-2" transform="translate(2154.27 772.26)"><tspan x="0" y="0">1 - 3 Minutes</tspan></text>
+    <text class="cls-2" transform="translate(2154.27 974.38)"><tspan x="0" y="0">3 - 5 Minutes</tspan></text>
+    <text class="cls-3" transform="translate(1237.28 276.93)"><tspan x="0" y="0">Card Info.</tspan></text>
+    <rect class="cls-6" x="1459.24" y="229.45" width="206.78" height="116.68" rx="23.87" ry="23.87"/>
+    <rect class="cls-11" x="1838.33" y="232.35" width="206.78" height="75.86" rx="37.93" ry="37.93"/>
+    <text class="cls-4" transform="translate(1531.3 299.19)"><tspan x="0" y="0">ATM</tspan></text>
+    <text class="cls-1" transform="translate(1915.52 281.68)"><tspan x="0" y="0">Success</tspan></text>
+    <rect class="cls-6" x="1459.24" y="35.12" width="206.78" height="116.68" rx="23.87" ry="23.87"/>
+    <text class="cls-4" transform="translate(1505.86 104.86)"><tspan x="0" y="0">Counter</tspan></text>
+    <rect class="cls-6" x="2475.6" y="425.82" width="206.78" height="116.68" rx="23.87" ry="23.87"/>
+    <text class="cls-4" transform="translate(2546.08 477.57)"><tspan x="0" y="0">Data </tspan><tspan x="-.72" y="36">Base</tspan></text>
+    <rect class="cls-6" x="907.17" y="424.37" width="206.78" height="116.68" rx="23.87" ry="23.87"/>
+    <text class="cls-4" transform="translate(931.27 494.12)"><tspan x="0" y="0">Credit Card</tspan></text>
+    <rect class="cls-6" x="907.17" y="620.75" width="206.78" height="116.68" rx="23.87" ry="23.87"/>
+    <text class="cls-4" transform="translate(966.39 672.49)"><tspan x="0" y="0">Digital</tspan><tspan x="-14.58" y="36">Transfer</tspan></text>
+    <g>
+      <path class="cls-10" d="M350.05,679.09h21.27c16.66,0,30.17-13.51,30.17-30.17v-136.04c0-16.66,13.51-30.17,30.17-30.17h12.13"/>
+      <polygon class="cls-6" points="427.85 496.28 441.42 482.71 427.85 469.15 439.37 469.15 452.93 482.71 439.37 496.28 427.85 496.28"/>
+    </g>
+    <g>
+      <path class="cls-10" d="M798.58,876.92h26.99c16.66,0,30.17-13.51,30.17-30.17v-136.04c0-16.66,13.51-30.17,30.17-30.17h12.13"/>
+      <polygon class="cls-6" points="882.1 694.1 895.67 680.54 882.1 666.98 893.61 666.98 907.17 680.54 893.61 694.1 882.1 694.1"/>
+    </g>
+    <g>
+      <path class="cls-10" d="M802.98,484.17h21.27c16.66,0,30.17-13.51,30.17-30.17v-136.04c0-16.66,13.51-30.17,30.17-30.17h12.13"/>
+      <polygon class="cls-6" points="880.78 301.35 894.35 287.79 880.78 274.23 892.29 274.23 905.86 287.79 892.29 301.35 880.78 301.35"/>
+    </g>
+    <path class="cls-10" d="M1975.68,680.54h21.27c16.66,0,30.17-13.51,30.17-30.17v-136.04c0-16.66,13.51-30.17,30.17-30.17h21.27"/>
+    <path class="cls-10" d="M1975.68,876.92h20.58c17.04,0,30.86-13.82,30.86-30.86v-229.96,64.44"/>
+    <g>
+      <path class="cls-10" d="M1105.37,287.79h21.27c16.66,0,30.17-13.51,30.17-30.17V121.58c0-16.66,13.51-30.17,30.17-30.17h264.26"/>
+      <polygon class="cls-6" points="1435.3 104.98 1448.87 91.42 1435.3 77.86 1446.81 77.86 1460.38 91.42 1446.81 104.98 1435.3 104.98"/>
+    </g>
+    <path class="cls-10" d="M906.51,680.54h-21.27c-16.66,0-30.17-13.51-30.17-30.17v-136.04c0-16.66-13.51-30.17-30.17-30.17h-21.27"/>
+    <g>
+      <path class="cls-10" d="M443.78,875.46h-12.13c-16.66,0-30.17-13.51-30.17-30.17v-136.04c0-16.66-13.51-30.17-30.17-30.17h-21.27"/>
+      <polygon class="cls-6" points="427.85 861.9 441.42 875.46 427.85 889.03 439.37 889.03 452.93 875.46 439.37 861.9 427.85 861.9"/>
+    </g>
+    <g>
+      <path class="cls-10" d="M1759.75,875.46h-12.13c-16.66,0-30.17-13.51-30.17-30.17v-136.04c0-16.66-13.51-30.17-30.17-30.17h-21.27"/>
+      <polygon class="cls-6" points="1743.82 861.9 1757.39 875.46 1743.82 889.03 1755.33 889.03 1768.9 875.46 1755.33 861.9 1743.82 861.9"/>
+    </g>
+    <g>
+      <line class="cls-10" x1="824.25" y1="484.17" x2="898.03" y2="484.17"/>
+      <polygon class="cls-6" points="882.1 497.73 895.67 484.17 882.1 470.6 893.61 470.6 907.17 484.17 893.61 497.73 882.1 497.73"/>
+    </g>
+    <g>
+      <line class="cls-10" x1="1113.96" y1="287.79" x2="1450.1" y2="287.79"/>
+      <polygon class="cls-6" points="1434.16 301.35 1447.73 287.79 1434.16 274.23 1445.68 274.23 1459.24 287.79 1445.68 301.35 1434.16 301.35"/>
+    </g>
+    <text class="cls-3" transform="translate(1215.85 473.3)"><tspan x="0" y="0">Card Info.</tspan></text>
+    <text class="cls-3" transform="translate(2083.24 538.34)"><tspan x="0" y="0">Balance Request</tspan></text>
+    <text class="cls-3" transform="translate(2090.29 585.46)"><tspan x="0" y="0">Transfer/Withdrawal </tspan><tspan x="0" y="36">Request</tspan></text>
+    <text class="cls-3" transform="translate(1978.14 397.68)"><tspan x="0" y="0">Balance Data</tspan></text>
+    <text class="cls-3" transform="translate(1977.8 441.51)"><tspan x="0" y="0">Request Responses</tspan></text>
+    <rect class="cls-6" x="1459.24" y="425.82" width="206.78" height="116.68" rx="23.87" ry="23.87"/>
+    <text class="cls-4" transform="translate(1500.7 495.57)"><tspan x="0" y="0">Terminal</tspan></text>
+    <rect class="cls-6" x="1459.24" y="616.1" width="206.78" height="116.68" rx="23.87" ry="23.87"/>
+    <text class="cls-4" transform="translate(1501.5 667.84)"><tspan x="0" y="0">Personal</tspan><tspan x="7.76" y="36">Devices</tspan></text>
+    <g>
+      <line class="cls-10" x1="1113.96" y1="484.17" x2="1450.1" y2="484.17"/>
+      <polygon class="cls-6" points="1434.16 497.73 1447.73 484.17 1434.16 470.6 1445.68 470.6 1459.24 484.17 1445.68 497.73 1434.16 497.73"/>
+    </g>
+    <text class="cls-3" transform="translate(1214.14 627.5)"><tspan x="0" y="0">Account #</tspan></text>
+    <text class="cls-3" transform="translate(1226.93 663.57)"><tspan x="0" y="0">Phone #</tspan></text>
+    <g>
+      <line class="cls-10" x1="1113.96" y1="680.54" x2="1450.1" y2="680.54"/>
+      <polygon class="cls-6" points="1434.16 694.1 1447.73 680.54 1434.16 666.98 1445.68 666.98 1459.24 680.54 1445.68 694.1 1434.16 694.1"/>
+    </g>
+    <g>
+      <line class="cls-9" x1="1666.02" y1="270.28" x2="1831.77" y2="270.28"/>
+      <polygon class="cls-11" points="1815.83 283.84 1829.4 270.28 1815.83 256.71 1827.35 256.71 1840.91 270.28 1827.35 283.84 1815.83 283.84"/>
+    </g>
+    <g>
+      <line class="cls-9" x1="1975.68" y1="692.21" x2="2132.58" y2="692.21"/>
+      <polygon class="cls-11" points="2116.65 705.77 2130.22 692.21 2116.65 678.65 2128.16 678.65 2141.73 692.21 2128.16 705.77 2116.65 705.77"/>
+    </g>
+    <g>
+      <line class="cls-9" x1="2682.38" y1="493.88" x2="2887.19" y2="493.88"/>
+      <polygon class="cls-11" points="2871.26 507.44 2884.83 493.88 2871.26 480.32 2882.77 480.32 2896.34 493.88 2882.77 507.44 2871.26 507.44"/>
+    </g>
+    <g>
+      <line class="cls-9" x1="1975.68" y1="888.63" x2="2132.58" y2="888.63"/>
+      <polygon class="cls-11" points="2116.65 902.19 2130.22 888.63 2116.65 875.07 2128.16 875.07 2141.73 888.63 2128.16 902.19 2116.65 902.19"/>
+    </g>
+    <rect class="cls-6" x="1768.9" y="620.75" width="206.78" height="116.68" rx="23.87" ry="23.87"/>
+    <text class="cls-4" transform="translate(1817.72 672.49)"><tspan x="0" y="0">Internal</tspan><tspan x="-1.79" y="36">Banking</tspan></text>
+    <rect class="cls-6" x="1768.9" y="811.02" width="206.78" height="116.68" rx="23.87" ry="23.87"/>
+    <text class="cls-4" transform="translate(1795.43 862.76)"><tspan x="0" y="0">Third Party</tspan><tspan x="50.22" y="36">P2P</tspan></text>
+    <g>
+      <line class="cls-10" x1="1666.02" y1="679.09" x2="1759.75" y2="679.09"/>
+      <polygon class="cls-6" points="1743.82 692.65 1757.39 679.09 1743.82 665.53 1755.33 665.53 1768.9 679.09 1755.33 692.65 1743.82 692.65"/>
+    </g>
+    <g>
+      <path class="cls-7" d="M2682.38,484.17h72.61c16.72,0,30.27-13.55,30.27-30.27v-104.92c0-16.72-13.55-30.27-30.27-30.27h-352c-16.72,0-30.27,13.55-30.27,30.27v95.89c0,16.72-13.55,30.27-30.27,30.27h-667.29"/>
+      <polygon class="cls-12" points="1691.1 461.57 1677.53 475.13 1691.1 488.7 1679.58 488.7 1666.02 475.13 1679.58 461.57 1691.1 461.57"/>
+    </g>
+    <path class="cls-10" d="M1768.9,484.46h-21.27c-16.66,0-30.17-13.51-30.17-30.17v-136.04c0-16.66-13.51-30.17-30.17-30.17h-21.27"/>
+    <g>
+      <path class="cls-7" d="M1777.99,475.12h-30.18c-11.74,0-21.26-9.52-21.26-21.26v-135.75c0-21.42-17.37-38.79-38.79-38.79h-12.59"/>
+      <polygon class="cls-12" points="1691.1 265.76 1677.53 279.32 1691.1 292.88 1679.58 292.88 1666.02 279.32 1679.58 265.76 1691.1 265.76"/>
+    </g>
+    <g>
+      <path class="cls-7" d="M1984.82,671.02h13.71c10.9,0,19.73-9.18,19.73-20.07v-137.9c0-20.91,16.95-37.86,37.86-37.86h35.38"/>
+      <polygon class="cls-12" points="2000.76 684.58 1987.19 671.02 2000.76 657.45 1989.24 657.45 1975.68 671.02 1989.24 684.58 2000.76 684.58"/>
+    </g>
+    <g>
+      <path class="cls-7" d="M1984.82,859.38h13.71c10.9,0,19.73-9.18,19.73-20.07v-194.29"/>
+      <polygon class="cls-12" points="2000.76 872.94 1987.19 859.38 2000.76 845.82 1989.24 845.82 1975.68 859.38 1989.24 872.94 2000.76 872.94"/>
+    </g>
+    <circle class="cls-6" cx="2059.52" cy="529.61" r="19.03"/>
+    <text class="cls-4" transform="translate(2050.49 540.43)"><tspan x="0" y="0">1</tspan></text>
+    <circle class="cls-6" cx="2059.52" cy="575.14" r="19.03"/>
+    <text class="cls-4" transform="translate(2050.49 585.96)"><tspan x="0" y="0">3</tspan></text>
+    <circle class="cls-12" cx="1953.26" cy="384.57" r="19.03"/>
+    <text class="cls-4" transform="translate(1944.22 395.39)"><tspan x="0" y="0">1</tspan></text>
+    <circle class="cls-12" cx="1953.26" cy="430.11" r="19.03"/>
+    <text class="cls-4" transform="translate(1944.22 440.93)"><tspan x="0" y="0">4</tspan></text>
+    <circle class="cls-6" cx="1875.8" cy="269.49" r="19.03"/>
+    <text class="cls-4" transform="translate(1866.77 280.31)"><tspan x="0" y="0">5</tspan></text>
+    <rect class="cls-11" x="1838.33" y="55.53" width="206.78" height="75.86" rx="37.93" ry="37.93"/>
+    <text class="cls-1" transform="translate(1915.52 104.86)"><tspan x="0" y="0">Success</tspan></text>
+    <g>
+      <line class="cls-9" x1="1666.02" y1="93.46" x2="1831.77" y2="93.46"/>
+      <polygon class="cls-11" points="1815.83 107.02 1829.4 93.46 1815.83 79.9 1827.35 79.9 1840.91 93.46 1827.35 107.02 1815.83 107.02"/>
+    </g>
+    <circle class="cls-6" cx="1875.8" cy="92.68" r="19.03"/>
+    <text class="cls-4" transform="translate(1866.77 103.5)"><tspan x="0" y="0">5</tspan></text>
+    <rect class="cls-11" x="2896.34" y="455.95" width="281.92" height="75.86" rx="37.93" ry="37.93"/>
+    <text class="cls-1" transform="translate(2977.38 505.28)"><tspan x="0" y="0">Data Update</tspan></text>
+    <circle class="cls-6" cx="2933.81" cy="493.1" r="19.03"/>
+    <text class="cls-4" transform="translate(2924.77 503.92)"><tspan x="0" y="0">5</tspan></text>
+    <rect class="cls-11" x="2144.79" y="654.28" width="206.78" height="75.86" rx="37.93" ry="37.93"/>
+    <text class="cls-1" transform="translate(2221.99 703.61)"><tspan x="0" y="0">Success</tspan></text>
+    <circle class="cls-6" cx="2182.27" cy="691.43" r="19.03"/>
+    <text class="cls-4" transform="translate(2173.23 702.25)"><tspan x="0" y="0">5</tspan></text>
+    <rect class="cls-11" x="2144.79" y="850.7" width="206.78" height="75.86" rx="37.93" ry="37.93"/>
+    <text class="cls-1" transform="translate(2221.99 900.03)"><tspan x="0" y="0">Success</tspan></text>
+    <circle class="cls-6" cx="2182.27" cy="887.85" r="19.03"/>
+    <text class="cls-4" transform="translate(2173.23 898.66)"><tspan x="0" y="0">5</tspan></text>
+    <g>
+      <path class="cls-8" d="M849.22,747.99l-31.6,54.72c-2.6,4.51.65,10.14,5.85,10.14h63.19c5.2,0,8.45-5.63,5.85-10.14l-31.6-54.72c-2.6-4.51-9.1-4.51-11.71,0Z"/>
+      <text class="cls-5" transform="translate(847.79 798.46)"><tspan x="0" y="0">!</tspan></text>
+    </g>
+    <g>
+      <path class="cls-8" d="M1711.61,747.99l-31.6,54.72c-2.6,4.51.65,10.14,5.85,10.14h63.19c5.2,0,8.45-5.63,5.85-10.14l-31.6-54.72c-2.6-4.51-9.1-4.51-11.71,0Z"/>
+      <text class="cls-5" transform="translate(1710.17 798.46)"><tspan x="0" y="0">!</tspan></text>
+    </g>
+    <g>
+      <path class="cls-8" d="M1150.96,158.86l-31.6,54.72c-2.6,4.51.65,10.14,5.85,10.14h63.19c5.2,0,8.45-5.63,5.85-10.14l-31.6-54.72c-2.6-4.51-9.1-4.51-11.71,0Z"/>
+      <text class="cls-5" transform="translate(1149.52 209.34)"><tspan x="0" y="0">!</tspan></text>
+    </g>
+  </g>
+</svg>
