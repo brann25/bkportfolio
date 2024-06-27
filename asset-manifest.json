@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.caf455d4.css",
-    "main.js": "/static/js/main.bbbf8405.js",
+    "main.css": "/static/css/main.5ef961a5.css",
+    "main.js": "/static/js/main.b0206649.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -36,6 +36,7 @@
     "static/media/cos_Landing.png": "/static/media/cos_Landing.5b5528a30f645e02c05d.png",
     "static/media/P1_Banners.jpg": "/static/media/P1_Banners.6e87e7725aa178d75a51.jpg",
     "static/media/COS_banner.png": "/static/media/COS_banner.8d3d7902975b0606ef37.png",
+    "static/media/AM-Layout.png": "/static/media/AM-Layout.09d4b6e0fd4d8e24f8b3.png",
     "static/media/P5_Umu_6-1.png": "/static/media/P5_Umu_6-1.26d0a9f26de23a32ae34.png",
     "static/media/P1_Flow Chart-02.png": "/static/media/P1_Flow Chart-02.839972da4c428b9e7d54.png",
     "static/media/P1_Flow Chart-01.png": "/static/media/P1_Flow Chart-01.9ae75b86a4110acc9959.png",
@@ -83,13 +84,13 @@
     "static/media/banking_scenario2.png": "/static/media/banking_scenario2.41fb851d9450903d6317.png",
     "static/media/banking_infoarch2.png": "/static/media/banking_infoarch2.67db43ed68cc60201e31.png",
     "static/media/food_opener.png": "/static/media/food_opener.30179a217ad19be4013c.png",
-    "static/media/AM-AffinityWall.jpg": "/static/media/AM-AffinityWall.f9a3e599b5a59d524cec.jpg",
     "static/media/banking_scenario3.png": "/static/media/banking_scenario3.451a1709e85fac33326e.png",
     "static/media/banking_infoarch1.png": "/static/media/banking_infoarch1.401ddc6fd7ef87b58346.png",
     "static/media/BN-FOODFIGHT.png": "/static/media/BN-FOODFIGHT.540ac3da421cda5ce5ee.png",
     "static/media/banking_userjourney.png": "/static/media/banking_userjourney.8404e24d1f092fb8da79.png",
     "static/media/P5_Umu_4_Develop.png": "/static/media/P5_Umu_4_Develop.76080641f9aa4f928833.png",
     "static/media/noti_function.png": "/static/media/noti_function.8066e99c12f1b700d69b.png",
+    "static/media/AM-Flows.png": "/static/media/AM-Flows.0dfa4b8b9ba4a9e6c722.png",
     "static/media/P5_Umu_3_Typo.png": "/static/media/P5_Umu_3_Typo.6253db804f68d7781880.png",
     "static/media/AM-Research.png": "/static/media/AM-Research.d4c8adf0e045d53d885e.png",
     "static/media/AM-UI.png": "/static/media/AM-UI.8eac7aeb4ebcf9690658.png",
@@ -120,11 +121,11 @@
     "static/media/Cloud.svg": "/static/media/Cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "static/media/cos-users-op1.svg": "/static/media/cos-users-op1.bf6aab3561252a1b78c98a74f9db52d0.svg",
     "index.html": "/index.html",
-    "main.caf455d4.css.map": "/static/css/main.caf455d4.css.map",
-    "main.bbbf8405.js.map": "/static/js/main.bbbf8405.js.map"
+    "main.5ef961a5.css.map": "/static/css/main.5ef961a5.css.map",
+    "main.b0206649.js.map": "/static/js/main.b0206649.js.map"
   },
   "entrypoints": [
-    "static/css/main.caf455d4.css",
-    "static/js/main.bbbf8405.js"
+    "static/css/main.5ef961a5.css",
+    "static/js/main.b0206649.js"
   ]
 }
