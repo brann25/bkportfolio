@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5b8a2a0.css",
-    "main.js": "/static/js/main.29726b75.js",
+    "main.css": "/static/css/main.29ee8b8a.css",
+    "main.js": "/static/js/main.41b62cc0.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -46,6 +46,7 @@
     "static/media/IAP1_05.jpg": "/static/media/IAP1_05.3c9281cbbfad563de685.jpg",
     "static/media/AM-Banner.png": "/static/media/AM-Banner.c5d8e3f436ca52d0df69.png",
     "static/media/widget_function.png": "/static/media/widget_function.6d6a100b35b29e0ca13a.png",
+    "static/media/about-brann.png": "/static/media/about-brann.b82d0938c41a24edb806.png",
     "static/media/IAP1_03.jpg": "/static/media/IAP1_03.93167e0ebc20195b60a9.jpg",
     "static/media/P5_UM_2.jpg": "/static/media/P5_UM_2.3d3a92d45338365719ac.jpg",
     "static/media/IAP1_01.jpg": "/static/media/IAP1_01.f202c62d4df44d5dfdc5.jpg",
@@ -123,11 +124,11 @@
     "static/media/Cloud.svg": "/static/media/Cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "static/media/cos-users-op1.svg": "/static/media/cos-users-op1.bf6aab3561252a1b78c98a74f9db52d0.svg",
     "index.html": "/index.html",
-    "main.d5b8a2a0.css.map": "/static/css/main.d5b8a2a0.css.map",
-    "main.29726b75.js.map": "/static/js/main.29726b75.js.map"
+    "main.29ee8b8a.css.map": "/static/css/main.29ee8b8a.css.map",
+    "main.41b62cc0.js.map": "/static/js/main.41b62cc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5b8a2a0.css",
-    "static/js/main.29726b75.js"
+    "static/css/main.29ee8b8a.css",
+    "static/js/main.41b62cc0.js"
   ]
 }
