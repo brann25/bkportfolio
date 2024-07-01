@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.af0ba51e.css",
-    "main.js": "/static/js/main.4f222896.js",
+    "main.js": "/static/js/main.684bd135.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -25,7 +25,6 @@
     "static/media/BN-NatLib.png": "/static/media/BN-NatLib.581ce2f79373967e6f05.png",
     "static/media/AboutMe.png": "/static/media/AboutMe.caa8668270bc24ee50cb.png",
     "static/media/P5_Umu_6-4.png": "/static/media/P5_Umu_6-4.1db4a22d8b58e76e1838.png",
-    "static/media/cos-set3.png": "/static/media/cos-set3.1103a9b420563eadb2c1.png",
     "static/media/AM-Feature3.png": "/static/media/AM-Feature3.32c41d16931061903f62.png",
     "static/media/Talking_Figure_Frame50.gif": "/static/media/Talking_Figure_Frame50.f41a6e67aecbcbdfbd43.gif",
     "static/media/AMHome.png": "/static/media/AMHome.df78e4892bcca2be1db6.png",
@@ -46,6 +45,7 @@
     "static/media/IAP1_05.jpg": "/static/media/IAP1_05.3c9281cbbfad563de685.jpg",
     "static/media/AM-Banner.png": "/static/media/AM-Banner.c5d8e3f436ca52d0df69.png",
     "static/media/widget_function.png": "/static/media/widget_function.6d6a100b35b29e0ca13a.png",
+    "static/media/cos-set3.png": "/static/media/cos-set3.5b65e1bd9296ded3e48b.png",
     "static/media/about-brann.png": "/static/media/about-brann.b82d0938c41a24edb806.png",
     "static/media/IAP1_03.jpg": "/static/media/IAP1_03.93167e0ebc20195b60a9.jpg",
     "static/media/P5_UM_2.jpg": "/static/media/P5_UM_2.3d3a92d45338365719ac.jpg",
@@ -125,10 +125,10 @@
     "static/media/cos-users-op1.svg": "/static/media/cos-users-op1.bf6aab3561252a1b78c98a74f9db52d0.svg",
     "index.html": "/index.html",
     "main.af0ba51e.css.map": "/static/css/main.af0ba51e.css.map",
-    "main.4f222896.js.map": "/static/js/main.4f222896.js.map"
+    "main.684bd135.js.map": "/static/js/main.684bd135.js.map"
   },
   "entrypoints": [
     "static/css/main.af0ba51e.css",
-    "static/js/main.4f222896.js"
+    "static/js/main.684bd135.js"
   ]
 }
