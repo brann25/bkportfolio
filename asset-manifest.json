@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe9e2260.css",
-    "main.js": "/static/js/main.9302a97e.js",
+    "main.css": "/static/css/main.e642cfe4.css",
+    "main.js": "/static/js/main.d28db351.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -62,6 +62,7 @@
     "static/media/P1_Sketching Alternatives_Page_1.jpg": "/static/media/P1_Sketching Alternatives_Page_1.a942aedb4bd895176658.jpg",
     "static/media/BN-COS.png": "/static/media/BN-COS.d73b44efbb10645e4d94.png",
     "static/media/P1_Sol2.jpg": "/static/media/P1_Sol2.25c9dec3ead1b8584d37.jpg",
+    "static/media/BN-AMIGO.png": "/static/media/BN-AMIGO.09f531d38fda18910eb0.png",
     "static/media/IAP1_02.jpg": "/static/media/IAP1_02.a4e6898dc85948601187.jpg",
     "static/media/banking_flow2.png": "/static/media/banking_flow2.44d1b88cb79a6fd192cc.png",
     "static/media/banking_scenario1.png": "/static/media/banking_scenario1.3c6d7bd2c28531789d18.png",
@@ -124,11 +125,11 @@
     "static/media/Cloud.svg": "/static/media/Cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "static/media/cos-users-op1.svg": "/static/media/cos-users-op1.bf6aab3561252a1b78c98a74f9db52d0.svg",
     "index.html": "/index.html",
-    "main.fe9e2260.css.map": "/static/css/main.fe9e2260.css.map",
-    "main.9302a97e.js.map": "/static/js/main.9302a97e.js.map"
+    "main.e642cfe4.css.map": "/static/css/main.e642cfe4.css.map",
+    "main.d28db351.js.map": "/static/js/main.d28db351.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe9e2260.css",
-    "static/js/main.9302a97e.js"
+    "static/css/main.e642cfe4.css",
+    "static/js/main.d28db351.js"
   ]
 }
