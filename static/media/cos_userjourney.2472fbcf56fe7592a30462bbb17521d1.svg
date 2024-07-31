@@ -2,6 +2,9 @@
 <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4746.38 1586.27">
   <defs>
     <style>
+      @font-face {
+        font-family: 'Manrope', 'Gill Sans MT';
+      }
       .cls-1 {
         stroke: #ff6d00;
         stroke-width: 88px;
@@ -37,7 +40,7 @@
       }
 
       .cls-13, .cls-14 {
-        font-family: OpenSans-Semibold, 'Open Sans';
+        font-family: 'arial';
         font-size: 48px;
         font-weight: 600;
       }
@@ -61,7 +64,7 @@
 
       .cls-15 {
         fill: #212121;
-        font-family: OpenSans, 'Open Sans';
+        font-family: 'arial';
         font-size: 60px;
       }
 
