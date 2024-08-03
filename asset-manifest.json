@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.98a769d4.css",
-    "main.js": "/static/js/main.acffa8d0.js",
+    "main.css": "/static/css/main.8d40af18.css",
+    "main.js": "/static/js/main.42c25f5e.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -23,7 +23,7 @@
     "static/media/BN-PNC-ALL_1.svg": "/static/media/BN-PNC-ALL_1.e83b9dcec5154f8e7f4d496236cde8b4.svg",
     "static/media/cos-set1.png": "/static/media/cos-set1.2c2f384a7ef67b6efffd.png",
     "static/media/BN-NatLib.png": "/static/media/BN-NatLib.581ce2f79373967e6f05.png",
-    "static/media/rc_mockup_full.png": "/static/media/rc_mockup_full.fad3df42e0aad1050e9b.png",
+    "static/media/rc_mockup_full.png": "/static/media/rc_mockup_full.1fd407b8f8b35546eef3.png",
     "static/media/AboutMe.png": "/static/media/AboutMe.caa8668270bc24ee50cb.png",
     "static/media/P5_Umu_6-4.png": "/static/media/P5_Umu_6-4.1db4a22d8b58e76e1838.png",
     "static/media/AM-Feature3.png": "/static/media/AM-Feature3.32c41d16931061903f62.png",
@@ -55,7 +55,7 @@
     "static/media/cos-set3.png": "/static/media/cos-set3.5b65e1bd9296ded3e48b.png",
     "static/media/about-brann.png": "/static/media/about-brann.b82d0938c41a24edb806.png",
     "static/media/IAP1_03.jpg": "/static/media/IAP1_03.93167e0ebc20195b60a9.jpg",
-    "static/media/rc_landing.png": "/static/media/rc_landing.bb2a8781a011e191a995.png",
+    "static/media/rc_landing.png": "/static/media/rc_landing.361743fe4eac8cbf755b.png",
     "static/media/P5_UM_2.jpg": "/static/media/P5_UM_2.3d3a92d45338365719ac.jpg",
     "static/media/IAP1_01.jpg": "/static/media/IAP1_01.f202c62d4df44d5dfdc5.jpg",
     "static/media/AM-Competitor.jpg": "/static/media/AM-Competitor.5d60a1f90bea1873531b.jpg",
@@ -116,11 +116,11 @@
     "static/media/banking_dir1.png": "/static/media/banking_dir1.76af2bef2fbf47ed1ec7.png",
     "static/media/BN-Graphic.png": "/static/media/BN-Graphic.7fca09ffb0aa55e50795.png",
     "static/media/P5_Umu_1_logo_1.png": "/static/media/P5_Umu_1_logo_1.bbffc4d775f2891553af.png",
-    "static/media/rc_export.png": "/static/media/rc_export.02ea5eb673241c52939b.png",
+    "static/media/rc_export.png": "/static/media/rc_export.a1165df0b3ab450e273f.png",
     "static/media/CI-1_1.png": "/static/media/CI-1_1.0efdd8efdd6c12214a2c.png",
     "static/media/rc_helps.png": "/static/media/rc_helps.5e602d4cf9aca10fdd37.png",
     "static/media/skills.svg": "/static/media/skills.3dcb4d7d620f1f2e2bdaff9413e96482.svg",
-    "static/media/rc_analyse.png": "/static/media/rc_analyse.a7f469f305a7bf22f505.png",
+    "static/media/rc_analyse.png": "/static/media/rc_analyse.ec860d0ce48a3c7e0469.png",
     "static/media/rc_tabs.png": "/static/media/rc_tabs.b1f74395af40bf2333ea.png",
     "static/media/cos_userjourney.svg": "/static/media/cos_userjourney.2472fbcf56fe7592a30462bbb17521d1.svg",
     "static/media/CI-2.png": "/static/media/CI-2.502c77913d40cdbe278b.png",
@@ -139,11 +139,11 @@
     "static/media/cos-users-op2.svg": "/static/media/cos-users-op2.04f4a36240bd2d00074300ed6941c0f7.svg",
     "static/media/cos-users-op1.svg": "/static/media/cos-users-op1.fe825f2728800f24e7c1e1a5bd2f2f10.svg",
     "static/media/Cloud.svg": "/static/media/Cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
-    "main.98a769d4.css.map": "/static/css/main.98a769d4.css.map",
-    "main.acffa8d0.js.map": "/static/js/main.acffa8d0.js.map"
+    "main.8d40af18.css.map": "/static/css/main.8d40af18.css.map",
+    "main.42c25f5e.js.map": "/static/js/main.42c25f5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.98a769d4.css",
-    "static/js/main.acffa8d0.js"
+    "static/css/main.8d40af18.css",
+    "static/js/main.42c25f5e.js"
   ]
 }
