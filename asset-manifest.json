@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b772e9c.css",
-    "main.js": "/static/js/main.f46a8b83.js",
+    "main.css": "/static/css/main.ccd73362.css",
+    "main.js": "/static/js/main.faf8d947.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/banner_banking_goal.png": "/static/media/banner_banking_goal.0c57f18917d54b9d3bc9.png",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
@@ -153,11 +153,11 @@
     "static/media/cos-users-op2.svg": "/static/media/cos-users-op2.04f4a36240bd2d00074300ed6941c0f7.svg",
     "static/media/cos-users-op1.svg": "/static/media/cos-users-op1.fe825f2728800f24e7c1e1a5bd2f2f10.svg",
     "static/media/Cloud.svg": "/static/media/Cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
-    "main.6b772e9c.css.map": "/static/css/main.6b772e9c.css.map",
-    "main.f46a8b83.js.map": "/static/js/main.f46a8b83.js.map"
+    "main.ccd73362.css.map": "/static/css/main.ccd73362.css.map",
+    "main.faf8d947.js.map": "/static/js/main.faf8d947.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b772e9c.css",
-    "static/js/main.f46a8b83.js"
+    "static/css/main.ccd73362.css",
+    "static/js/main.faf8d947.js"
   ]
 }
